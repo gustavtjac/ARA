@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ara.iml" filepath="$PROJECT_DIR$/Ara.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array ovelser/Array ovelser.iml" filepath="$PROJECT_DIR$/Array ovelser/Array ovelser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array ovelser/Exercise 1.3 - Level 2/Exercise 1.3 - Level 2.iml" filepath="$PROJECT_DIR$/Array ovelser/Exercise 1.3 - Level 2/Exercise 1.3 - Level 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array ovelser/Exercise 10 - Level 3/Exercise 10 - Level 3.iml" filepath="$PROJECT_DIR$/Array ovelser/Exercise 10 - Level 3/Exercise 10 - Level 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array ovelser/Exercise 6 - Level 3/Exercise 6 - Level 3.iml" filepath="$PROJECT_DIR$/Array ovelser/Exercise 6 - Level 3/Exercise 6 - Level 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array ovelser/Exercise 8 - Level 3/Exercise 8 - Level 3.iml" filepath="$PROJECT_DIR$/Array ovelser/Exercise 8 - Level 3/Exercise 8 - Level 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array ovelser/Exercise 9 - Level 3/Exercise 9 - Level 3.iml" filepath="$PROJECT_DIR$/Array ovelser/Exercise 9 - Level 3/Exercise 9 - Level 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array ovelser/ovelse 1.1/ovelse 1.1.iml" filepath="$PROJECT_DIR$/Array ovelser/ovelse 1.1/ovelse 1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array ovelser/ovelse1.21/ovelse1.21.iml" filepath="$PROJECT_DIR$/Array ovelser/ovelse1.21/ovelse1.21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array ovelser/ovelse1.22/ovelse1.22.iml" filepath="$PROJECT_DIR$/Array ovelser/ovelse1.22/ovelse1.22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array ovelser/ovelse1.4/ovelse1.4.iml" filepath="$PROJECT_DIR$/Array ovelser/ovelse1.4/ovelse1.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array ovelser/ovelse2/ovelse2.iml" filepath="$PROJECT_DIR$/Array ovelser/ovelse2/ovelse2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array ovelser/ovelse4/ovelse4.iml" filepath="$PROJECT_DIR$/Array ovelser/ovelse4/ovelse4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array ovelser/ovelse5/ovelse5.iml" filepath="$PROJECT_DIR$/Array ovelser/ovelse5/ovelse5.iml" />
+    </modules>
+  </component>
+</project>
